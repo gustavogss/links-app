@@ -3,7 +3,6 @@ import { styles } from "./styles"
 import { MaterialIcons } from '@expo/vector-icons'
 import { colors } from "@/styles/colors"
 
-
 export function Header() {
   return (
     <View style={styles.container}>
